@@ -1,3 +1,13 @@
+document
+.getElementById("secretBtn")
+.addEventListener("click", () => {
+
+    document
+    .getElementById("secretMessage")
+    .innerHTML =
+    "🫂 If you're reading this, I miss you too 😭💖";
+
+});
 const hearts = [
 
     "💖",
